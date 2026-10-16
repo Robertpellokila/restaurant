@@ -1,0 +1,9 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "products": { ".read": true },
+    "recipes": { ".read": true },
+    "testimonials": { ".read": true }
+  }
+}

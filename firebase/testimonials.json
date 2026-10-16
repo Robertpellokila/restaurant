@@ -1,0 +1,152 @@
+{
+  "testi_01": {
+    "id": "testi_01",
+    "body": "Resep nasi gorengnya mudah diikuti. Takaran bahannya pas untuk sarapan berdua.",
+    "likes": 12,
+    "user": {
+      "fullName": "Alya Pratama",
+      "username": "alya_contoh"
+    },
+    "isSample": true
+  },
+  "testi_02": {
+    "id": "testi_02",
+    "body": "Nama produk, harga, dan stoknya terlihat jelas. Saya jadi lebih mudah memilih barang.",
+    "likes": 8,
+    "user": {
+      "fullName": "Bima Saputra",
+      "username": "bima_contoh"
+    },
+    "isSample": true
+  },
+  "testi_03": {
+    "id": "testi_03",
+    "body": "Pancake pisangnya lembut. Langkah memasaknya membantu saya yang baru belajar.",
+    "likes": 15,
+    "user": {
+      "fullName": "Citra Lestari",
+      "username": "citra_contoh"
+    },
+    "isSample": true
+  },
+  "testi_04": {
+    "id": "testi_04",
+    "body": "Fitur pencarian resep berdasarkan bahan membantu saat hanya ada wortel di rumah.",
+    "likes": 6,
+    "user": {
+      "fullName": "Dimas Ramadhan",
+      "username": "dimas_contoh"
+    },
+    "isSample": true
+  },
+  "testi_05": {
+    "id": "testi_05",
+    "body": "Saya suka sup sayur beningnya. Bahan-bahannya sederhana dan mudah ditemukan.",
+    "likes": 10,
+    "user": {
+      "fullName": "Eka Wulandari",
+      "username": "eka_contoh"
+    },
+    "isSample": true
+  },
+  "testi_06": {
+    "id": "testi_06",
+    "body": "Keranjang belanjanya praktis. Jumlah barang dan total harga langsung berubah saat saya menambah item.",
+    "likes": 9,
+    "user": {
+      "fullName": "Farhan Putra",
+      "username": "farhan_contoh"
+    },
+    "isSample": true
+  },
+  "testi_07": {
+    "id": "testi_07",
+    "body": "Tumis kangkung jadi pilihan saat ingin memasak cepat setelah beraktivitas.",
+    "likes": 7,
+    "user": {
+      "fullName": "Gita Maharani",
+      "username": "gita_contoh"
+    },
+    "isSample": true
+  },
+  "testi_08": {
+    "id": "testi_08",
+    "body": "Buku pemrograman Vue.js menarik untuk menemani latihan membuat aplikasi sederhana.",
+    "likes": 11,
+    "user": {
+      "fullName": "Hadi Kurniawan",
+      "username": "hadi_contoh"
+    },
+    "isSample": true
+  },
+  "testi_09": {
+    "id": "testi_09",
+    "body": "Puding cokelatnya cocok untuk camilan sore. Petunjuk waktu pendinginannya juga jelas.",
+    "likes": 14,
+    "user": {
+      "fullName": "Intan Permata",
+      "username": "intan_contoh"
+    },
+    "isSample": true
+  },
+  "testi_10": {
+    "id": "testi_10",
+    "body": "Kategori resep membantu saya memilih menu untuk sarapan dan makan malam.",
+    "likes": 5,
+    "user": {
+      "fullName": "Joko Setiawan",
+      "username": "joko_contoh"
+    },
+    "isSample": true
+  },
+  "testi_11": {
+    "id": "testi_11",
+    "body": "Es jeruk madu mudah dibuat. Rasanya segar untuk menemani makan siang.",
+    "likes": 8,
+    "user": {
+      "fullName": "Kirana Putri",
+      "username": "kirana_contoh"
+    },
+    "isSample": true
+  },
+  "testi_12": {
+    "id": "testi_12",
+    "body": "Saya mencoba tempe orek dari resep ini. Urutan memasaknya mudah dipahami.",
+    "likes": 13,
+    "user": {
+      "fullName": "Lukman Hakim",
+      "username": "lukman_contoh"
+    },
+    "isSample": true
+  },
+  "testi_13": {
+    "id": "testi_13",
+    "body": "Tampilan aplikasi nyaman dibaca dari ponsel, terutama daftar bahan dan langkah memasak.",
+    "likes": 6,
+    "user": {
+      "fullName": "Maya Salsabila",
+      "username": "maya_contoh"
+    },
+    "isSample": true
+  },
+  "testi_14": {
+    "id": "testi_14",
+    "body": "Resep mie goreng sayur jadi ide baru untuk bekal. Bahannya mudah disiapkan.",
+    "likes": 9,
+    "user": {
+      "fullName": "Nanda Wijaya",
+      "username": "nanda_contoh"
+    },
+    "isSample": true
+  },
+  "testi_15": {
+    "id": "testi_15",
+    "body": "Senang bisa melihat produk dan mencari inspirasi resep dalam satu aplikasi.",
+    "likes": 4,
+    "user": {
+      "fullName": "Oki Prasetyo",
+      "username": "oki_contoh"
+    },
+    "isSample": true
+  }
+}

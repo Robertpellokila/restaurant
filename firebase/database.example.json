@@ -1,0 +1,393 @@
+{
+  "products": {
+    "prod_01": {
+      "id": "prod_01",
+      "name": "Buku Pemrograman Vue.js",
+      "category": "Buku",
+      "imageUrl": "https://picsum.photos/200/200?random=1",
+      "price": 95000,
+      "stock": 15
+    }
+  },
+  "recipes": {
+    "recipe_01": {
+      "id": "recipe_01",
+      "name": "Nasi Goreng Telur",
+      "category": "Sarapan",
+      "description": "Nasi goreng rumahan dengan telur, kecap manis, dan daun bawang. Cocok untuk dua porsi sarapan.",
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800&auto=format&fit=crop",
+      "time": 20,
+      "servings": 2,
+      "difficulty": "Mudah",
+      "rating": 4.8,
+      "ingredients": [
+        "2 piring nasi putih matang",
+        "2 butir telur",
+        "3 siung bawang putih, cincang",
+        "2 siung bawang merah, iris",
+        "2 sdm kecap manis",
+        "1/2 sdt garam",
+        "1/4 sdt merica bubuk",
+        "2 sdm minyak goreng",
+        "1 batang daun bawang, iris"
+      ],
+      "steps": [
+        "Panaskan minyak di wajan, lalu tumis bawang putih dan bawang merah sampai harum.",
+        "Masukkan telur dan aduk menjadi orak-arik hingga matang.",
+        "Tambahkan nasi, lalu aduk sambil memisahkan gumpalan nasi.",
+        "Masukkan kecap manis, garam, dan merica. Aduk hingga warna merata dan seluruh nasi panas.",
+        "Tambahkan daun bawang, aduk sebentar, lalu bagi menjadi dua porsi dan sajikan."
+      ]
+    },
+    "recipe_02": {
+      "id": "recipe_02",
+      "name": "Mie Goreng Sayur",
+      "category": "Makan Siang",
+      "description": "Mie goreng sederhana dengan wortel dan sawi, dibumbui kecap manis dan bawang putih.",
+      "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&auto=format&fit=crop",
+      "time": 25,
+      "servings": 2,
+      "difficulty": "Mudah",
+      "rating": 4.7,
+      "ingredients": [
+        "150 gram mie telur kering",
+        "1 buah wortel, potong tipis",
+        "3 lembar sawi hijau, potong",
+        "3 siung bawang putih, cincang",
+        "2 sdm kecap manis",
+        "1 sdm kecap asin",
+        "1/4 sdt merica bubuk",
+        "2 sdm minyak goreng",
+        "50 ml air",
+        "Air secukupnya untuk merebus mie"
+      ],
+      "steps": [
+        "Rebus mie dalam air mendidih sesuai petunjuk kemasan, kemudian tiriskan.",
+        "Panaskan minyak dan tumis bawang putih sampai harum.",
+        "Masukkan wortel dan 50 ml air. Masak sampai wortel mulai empuk.",
+        "Tambahkan sawi, mie, kecap manis, kecap asin, dan merica.",
+        "Aduk sampai bumbu merata dan sayuran matang. Angkat dan sajikan hangat."
+      ]
+    },
+    "recipe_03": {
+      "id": "recipe_03",
+      "name": "Tumis Kangkung Bawang Putih",
+      "category": "Makan Siang",
+      "description": "Kangkung tumis cepat dengan bawang putih dan sedikit cabai. Sajikan sebagai pendamping nasi.",
+      "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&auto=format&fit=crop",
+      "time": 15,
+      "servings": 2,
+      "difficulty": "Mudah",
+      "rating": 4.6,
+      "ingredients": [
+        "1 ikat kangkung, petik dan cuci bersih",
+        "3 siung bawang putih, iris",
+        "2 siung bawang merah, iris",
+        "1 buah cabai merah, iris",
+        "1/2 sdt garam",
+        "1/4 sdt gula pasir",
+        "2 sdm minyak goreng",
+        "50 ml air"
+      ],
+      "steps": [
+        "Panaskan minyak, lalu tumis bawang putih, bawang merah, dan cabai sampai harum.",
+        "Masukkan batang kangkung terlebih dahulu, aduk sekitar satu menit.",
+        "Tambahkan daun kangkung, air, garam, dan gula.",
+        "Aduk hingga kangkung layu dan batangnya matang sesuai selera.",
+        "Angkat dan sajikan segera agar teksturnya tetap segar."
+      ]
+    },
+    "recipe_04": {
+      "id": "recipe_04",
+      "name": "Sup Sayur Bening",
+      "category": "Makan Malam",
+      "description": "Sup kuah bening berisi kentang, wortel, buncis, dan kol untuk tiga porsi.",
+      "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?w=800&auto=format&fit=crop",
+      "time": 30,
+      "servings": 3,
+      "difficulty": "Mudah",
+      "rating": 4.8,
+      "ingredients": [
+        "1 buah kentang, kupas dan potong dadu",
+        "1 buah wortel, iris",
+        "6 batang buncis, potong",
+        "2 lembar kol, potong",
+        "2 siung bawang putih, cincang",
+        "1 batang daun bawang, iris",
+        "1 batang seledri, iris",
+        "1 liter air",
+        "1 sdt garam",
+        "1/4 sdt merica bubuk",
+        "1 sdm minyak goreng"
+      ],
+      "steps": [
+        "Panaskan minyak di panci, lalu tumis bawang putih sampai harum.",
+        "Tuangkan air dan didihkan.",
+        "Masukkan kentang dan wortel. Rebus sampai hampir empuk.",
+        "Tambahkan buncis, kol, garam, dan merica. Masak sampai semua sayuran matang.",
+        "Masukkan daun bawang dan seledri, aduk sebentar, lalu sajikan."
+      ]
+    },
+    "recipe_05": {
+      "id": "recipe_05",
+      "name": "Tempe Orek Kecap",
+      "category": "Makan Malam",
+      "description": "Potongan tempe goreng dengan bumbu kecap manis, bawang, dan cabai merah.",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&auto=format&fit=crop",
+      "time": 25,
+      "servings": 3,
+      "difficulty": "Mudah",
+      "rating": 4.7,
+      "ingredients": [
+        "250 gram tempe, potong kecil memanjang",
+        "3 siung bawang putih, iris",
+        "4 siung bawang merah, iris",
+        "1 buah cabai merah, iris",
+        "3 sdm kecap manis",
+        "1/2 sdt garam",
+        "1/4 sdt merica bubuk",
+        "50 ml air",
+        "Minyak goreng secukupnya"
+      ],
+      "steps": [
+        "Panaskan minyak dan goreng tempe hingga matang serta kecokelatan, lalu tiriskan.",
+        "Sisakan sekitar dua sendok makan minyak di wajan.",
+        "Tumis bawang putih, bawang merah, dan cabai sampai harum.",
+        "Tambahkan kecap manis, air, garam, dan merica. Aduk hingga bumbu mulai mengental.",
+        "Masukkan tempe, aduk hingga terlapisi bumbu, lalu angkat dan sajikan."
+      ]
+    },
+    "recipe_06": {
+      "id": "recipe_06",
+      "name": "Pancake Pisang",
+      "category": "Sarapan",
+      "description": "Pancake lembut dengan pisang matang. Satu resep menghasilkan sekitar enam pancake kecil.",
+      "imageUrl": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=800&auto=format&fit=crop",
+      "time": 25,
+      "servings": 2,
+      "difficulty": "Mudah",
+      "rating": 4.9,
+      "ingredients": [
+        "1 buah pisang matang",
+        "100 gram tepung terigu",
+        "1 butir telur",
+        "100 ml susu cair",
+        "1 sdm gula pasir",
+        "1/2 sdt baking powder",
+        "1 sdm mentega cair",
+        "1 sdt mentega untuk mengoles wajan"
+      ],
+      "steps": [
+        "Haluskan pisang dengan garpu di dalam mangkuk.",
+        "Tambahkan telur, susu, dan mentega cair. Aduk hingga tercampur.",
+        "Campurkan tepung, gula, dan baking powder, lalu masukkan ke adonan pisang. Aduk secukupnya hingga tidak ada tepung kering.",
+        "Panaskan wajan anti lengket dengan api kecil dan olesi tipis mentega.",
+        "Tuang satu sendok sayur kecil adonan. Balik saat muncul gelembung dan bagian bawah kecokelatan.",
+        "Masak sisi kedua hingga bagian tengah matang dan tidak ada adonan basah. Ulangi sampai adonan habis."
+      ]
+    },
+    "recipe_07": {
+      "id": "recipe_07",
+      "name": "Puding Cokelat Susu",
+      "category": "Camilan",
+      "description": "Puding cokelat untuk empat porsi. Perkiraan waktu sudah termasuk sekitar dua jam pendinginan.",
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&auto=format&fit=crop",
+      "time": 150,
+      "servings": 4,
+      "difficulty": "Mudah",
+      "rating": 4.8,
+      "ingredients": [
+        "1 bungkus agar-agar bubuk tawar ukuran 7 gram",
+        "700 ml susu cair",
+        "80 gram gula pasir",
+        "2 sdm cokelat bubuk",
+        "50 gram cokelat batang, cincang",
+        "Sejumput garam"
+      ],
+      "steps": [
+        "Campurkan agar-agar, gula, cokelat bubuk, dan garam dalam panci.",
+        "Tuangkan susu sedikit demi sedikit sambil diaduk agar bubuk tidak menggumpal.",
+        "Masak dengan api sedang sambil terus diaduk hingga mendidih.",
+        "Masukkan cokelat batang, aduk hingga larut, lalu matikan api.",
+        "Tuang ke empat cetakan. Diamkan sampai uap panas berkurang dan puding mulai mengeras.",
+        "Simpan di kulkas sekitar dua jam hingga dingin sebelum disajikan."
+      ]
+    },
+    "recipe_08": {
+      "id": "recipe_08",
+      "name": "Es Jeruk Madu",
+      "category": "Minuman",
+      "description": "Minuman jeruk peras dengan madu dan es, mudah dibuat untuk menemani makan siang.",
+      "imageUrl": "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=800&auto=format&fit=crop",
+      "time": 10,
+      "servings": 2,
+      "difficulty": "Mudah",
+      "rating": 4.6,
+      "ingredients": [
+        "4 buah jeruk manis",
+        "2 sdm madu",
+        "200 ml air matang dingin",
+        "2 sdm air hangat untuk melarutkan madu",
+        "Es batu secukupnya"
+      ],
+      "steps": [
+        "Cuci jeruk, belah dua, lalu peras dan saring bijinya.",
+        "Larutkan madu dengan air hangat di wadah terpisah.",
+        "Campurkan air jeruk, madu yang sudah larut, dan air matang dingin.",
+        "Isi dua gelas dengan es batu, tuangkan campuran jeruk, lalu sajikan."
+      ]
+    }
+  },
+  "testimonials": {
+    "testi_01": {
+      "id": "testi_01",
+      "body": "Resep nasi gorengnya mudah diikuti. Takaran bahannya pas untuk sarapan berdua.",
+      "likes": 12,
+      "user": {
+        "fullName": "Alya Pratama",
+        "username": "alya_contoh"
+      },
+      "isSample": true
+    },
+    "testi_02": {
+      "id": "testi_02",
+      "body": "Nama produk, harga, dan stoknya terlihat jelas. Saya jadi lebih mudah memilih barang.",
+      "likes": 8,
+      "user": {
+        "fullName": "Bima Saputra",
+        "username": "bima_contoh"
+      },
+      "isSample": true
+    },
+    "testi_03": {
+      "id": "testi_03",
+      "body": "Pancake pisangnya lembut. Langkah memasaknya membantu saya yang baru belajar.",
+      "likes": 15,
+      "user": {
+        "fullName": "Citra Lestari",
+        "username": "citra_contoh"
+      },
+      "isSample": true
+    },
+    "testi_04": {
+      "id": "testi_04",
+      "body": "Fitur pencarian resep berdasarkan bahan membantu saat hanya ada wortel di rumah.",
+      "likes": 6,
+      "user": {
+        "fullName": "Dimas Ramadhan",
+        "username": "dimas_contoh"
+      },
+      "isSample": true
+    },
+    "testi_05": {
+      "id": "testi_05",
+      "body": "Saya suka sup sayur beningnya. Bahan-bahannya sederhana dan mudah ditemukan.",
+      "likes": 10,
+      "user": {
+        "fullName": "Eka Wulandari",
+        "username": "eka_contoh"
+      },
+      "isSample": true
+    },
+    "testi_06": {
+      "id": "testi_06",
+      "body": "Keranjang belanjanya praktis. Jumlah barang dan total harga langsung berubah saat saya menambah item.",
+      "likes": 9,
+      "user": {
+        "fullName": "Farhan Putra",
+        "username": "farhan_contoh"
+      },
+      "isSample": true
+    },
+    "testi_07": {
+      "id": "testi_07",
+      "body": "Tumis kangkung jadi pilihan saat ingin memasak cepat setelah beraktivitas.",
+      "likes": 7,
+      "user": {
+        "fullName": "Gita Maharani",
+        "username": "gita_contoh"
+      },
+      "isSample": true
+    },
+    "testi_08": {
+      "id": "testi_08",
+      "body": "Buku pemrograman Vue.js menarik untuk menemani latihan membuat aplikasi sederhana.",
+      "likes": 11,
+      "user": {
+        "fullName": "Hadi Kurniawan",
+        "username": "hadi_contoh"
+      },
+      "isSample": true
+    },
+    "testi_09": {
+      "id": "testi_09",
+      "body": "Puding cokelatnya cocok untuk camilan sore. Petunjuk waktu pendinginannya juga jelas.",
+      "likes": 14,
+      "user": {
+        "fullName": "Intan Permata",
+        "username": "intan_contoh"
+      },
+      "isSample": true
+    },
+    "testi_10": {
+      "id": "testi_10",
+      "body": "Kategori resep membantu saya memilih menu untuk sarapan dan makan malam.",
+      "likes": 5,
+      "user": {
+        "fullName": "Joko Setiawan",
+        "username": "joko_contoh"
+      },
+      "isSample": true
+    },
+    "testi_11": {
+      "id": "testi_11",
+      "body": "Es jeruk madu mudah dibuat. Rasanya segar untuk menemani makan siang.",
+      "likes": 8,
+      "user": {
+        "fullName": "Kirana Putri",
+        "username": "kirana_contoh"
+      },
+      "isSample": true
+    },
+    "testi_12": {
+      "id": "testi_12",
+      "body": "Saya mencoba tempe orek dari resep ini. Urutan memasaknya mudah dipahami.",
+      "likes": 13,
+      "user": {
+        "fullName": "Lukman Hakim",
+        "username": "lukman_contoh"
+      },
+      "isSample": true
+    },
+    "testi_13": {
+      "id": "testi_13",
+      "body": "Tampilan aplikasi nyaman dibaca dari ponsel, terutama daftar bahan dan langkah memasak.",
+      "likes": 6,
+      "user": {
+        "fullName": "Maya Salsabila",
+        "username": "maya_contoh"
+      },
+      "isSample": true
+    },
+    "testi_14": {
+      "id": "testi_14",
+      "body": "Resep mie goreng sayur jadi ide baru untuk bekal. Bahannya mudah disiapkan.",
+      "likes": 9,
+      "user": {
+        "fullName": "Nanda Wijaya",
+        "username": "nanda_contoh"
+      },
+      "isSample": true
+    },
+    "testi_15": {
+      "id": "testi_15",
+      "body": "Senang bisa melihat produk dan mencari inspirasi resep dalam satu aplikasi.",
+      "likes": 4,
+      "user": {
+        "fullName": "Oki Prasetyo",
+        "username": "oki_contoh"
+      },
+      "isSample": true
+    }
+  }
+}
