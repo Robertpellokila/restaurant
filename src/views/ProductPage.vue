@@ -27,7 +27,7 @@ onMounted(loadProducts)
   <main class="container">
     <header class="page-header">
       <p class="eyebrow">OUR COLLECTION</p>
-      <h1>Product Catalog</h1>
+      <h1>Product Catalog Restaurant</h1>
       <p>Temukan produk favoritmu.</p>
     </header>
 
